@@ -4,7 +4,6 @@
 # Step 1: Clone the repository
 echo "Cloning the repository..."
 git clone https://github.com/yazanOthman/historical-app.git
-cd <repository-name> # Replace <repository-name> with the actual directory name after cloning
 
 # Step 2: Backend setup
 echo "Setting up the backend..."
